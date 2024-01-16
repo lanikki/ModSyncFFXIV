@@ -3,7 +3,7 @@
         "Author": "Huggingway",
         "Name": "Loporrit Sync",
         "InternalName": "LoporritSync",
-        "AssemblyVersion": "0.9.23.1",
+        "AssemblyVersion": "0.9.24.1",
         "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/loporrit/MareClient",
@@ -16,8 +16,9 @@
         "Punchline": "Gee Bill, how come your mom lets you have two Mares?",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "DownloadLinkInstall": "https://github.com/loporrit/MareClient/releases/download/Loporrit-v0.9.23.1/LoporritSync-0.9.23.1.zip",
-        "DownloadLinkTesting": "https://github.com/loporrit/MareClient/releases/download/Loporrit-v0.9.23.1/LoporritSync-0.9.23.1.zip",
-        "DownloadLinkUpdate": "https://github.com/loporrit/MareClient/releases/download/Loporrit-v0.9.23.1/LoporritSync-0.9.23.1.zip"
+        "CanUnloadAsync": "True",
+        "DownloadLinkInstall": "https://github.com/loporrit/MareClient/releases/download/Loporrit-v0.9.24.1/LoporritSync-0.9.24.1.zip",
+        "DownloadLinkTesting": "https://github.com/loporrit/MareClient/releases/download/Loporrit-v0.9.24.1/LoporritSync-0.9.24.1.zip",
+        "DownloadLinkUpdate": "https://github.com/loporrit/MareClient/releases/download/Loporrit-v0.9.24.1/LoporritSync-0.9.24.1.zip"
       }
 ]
