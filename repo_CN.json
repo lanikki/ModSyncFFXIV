@@ -3,24 +3,24 @@
         "Author": "Huggingway",
         "Name": "Loporrit Sync",
         "InternalName": "LoporritSync",
-        "AssemblyVersion": "0.9.28.11",
-        "TestingAssemblyVersion": "0.9.28.11",
+        "AssemblyVersion": "0.9.28.16",
+        "TestingAssemblyVersion": "0.9.28.19",
         "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/loporrit/MareClient",
         "Tags": [
           "customization"
         ],
-        "DalamudApiLevel": 10,
-        "TestingDalamudApiLevel": 10,
+        "DalamudApiLevel": 11,
+        "TestingDalamudApiLevel": 11,
         "LoadPriority": 0,
         "IconUrl": "https://raw.githubusercontent.com/loporrit/MareClient/way1/MareSynchronos/images/icon.png",
         "Punchline": "Social modding for everyone!",
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "CanUnloadAsync": "True",
-        "DownloadLinkInstall": "https://github.com/loporrit/MareClient/releases/download/Loporrit-v0.9.28.11/LoporritSync-0.9.28.11.zip",
-        "DownloadLinkTesting": "https://github.com/loporrit/MareClient/releases/download/Loporrit-v0.9.28.11/LoporritSync-0.9.28.11.zip",
-        "DownloadLinkUpdate": "https://github.com/loporrit/MareClient/releases/download/Loporrit-v0.9.28.11/LoporritSync-0.9.28.11.zip"
+        "DownloadLinkInstall": "https://github.com/loporrit/MareClient/releases/download/Loporrit-v0.9.28.16/LoporritSync-0.9.28.16.zip",
+        "DownloadLinkTesting": "https://github.com/loporrit/MareClient/releases/download/Loporrit-v0.9.28.19/LoporritSync-0.9.28.19.zip",
+        "DownloadLinkUpdate": "https://github.com/loporrit/MareClient/releases/download/Loporrit-v0.9.28.16/LoporritSync-0.9.28.16.zip"
       }
 ]
