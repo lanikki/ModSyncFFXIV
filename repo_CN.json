@@ -14,13 +14,13 @@
         "DalamudApiLevel": 12,
         "TestingDalamudApiLevel": 12,
         "LoadPriority": 0,
-        "IconUrl": "https://raw.githubusercontent.com/loporrit/MareClient/way4/MareSynchronos/images/icon.png",
+        "IconUrl": "https://plugin.lop-sync.com/images/icon.png",
         "Punchline": "Let others see you as you see yourself.",
         "IsHide": false,
         "IsTestingExclusive": false,
         "CanUnloadAsync": true,
-        "DownloadLinkInstall": "https://github.com/loporrit/MareClient/releases/download/Loporrit-v0.9.28.32/LoporritSync-0.9.28.32.zip",
-        "DownloadLinkTesting": "https://github.com/loporrit/MareClient/releases/download/Loporrit-v0.9.28.32/LoporritSync-0.9.28.32.zip",
-        "DownloadLinkUpdate": "https://github.com/loporrit/MareClient/releases/download/Loporrit-v0.9.28.32/LoporritSync-0.9.28.32.zip"
+        "DownloadLinkInstall": "https://plugin.lop-sync.com/download/LoporritSync-0.9.28.32.zip",
+        "DownloadLinkTesting": "https://plugin.lop-sync.com/download/LoporritSync-0.9.28.32.zip",
+        "DownloadLinkUpdate": "https://plugin.lop-sync.com/download/LoporritSync-0.9.28.32.zip"
     }
 ]
