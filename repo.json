@@ -1,7 +1,7 @@
 [
     {
-        "Author": "Huggingway",
-        "Name": "Loporrit Sync",
+        "Author": "Nikki",
+        "Name": "ModSync",
         "InternalName": "LoporritSync",
         "AssemblyVersion": "1.0.9.1",
         "TestingAssemblyVersion": "1.0.9.1",
@@ -14,7 +14,7 @@
         "DalamudApiLevel": 13,
         "TestingDalamudApiLevel": 13,
         "LoadPriority": 0,
-        "IconUrl": "https://plugin.lop-sync.com/images/icon.png",
+        "IconUrl": "https://github.com/lanikki/ModSyncFFXIV/blob/master/icon.jpg",
         "Punchline": "Social modding for everyone!",
         "IsHide": false,
         "IsTestingExclusive": false,
